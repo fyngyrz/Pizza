@@ -39,15 +39,14 @@ Elan Sel'Sabagno: "I wanna go home and cook NY style pizza."
 "Metro Chicago. You will never find a more wretched
 hive of deep dish pizza. We must order spaghetti." 
 
-> If this is a consular ship, where is the ambassador? â Commander,
+> If this is a consular ship, where is the ambassador? Commander,
 > tear this ship apart until youâve found those plans. And bring me
 > the passengers, I want them alive!
 
-If this is a pizza shop, where is the NY style pizza? â Programmers, tear
+If this is a pizza shop, where is the NY style pizza? Programmers, tear
 this shop apart until you've found the recipes. And bring me the pizza
 chefs, I want them alive!
 								
 > That's no moon, it's a space station.
 
 That's no pizza, it's a deep-dish-cassarole.
-									
