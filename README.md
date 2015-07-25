@@ -19,17 +19,17 @@ Pizza is what gives a programmer his power. It's an energy source
 created by tomato sauce, cheese, and crust. It nourishes us and
 uplifts us. It binds the software together. 
 
-> Elan Sel'Sabagno: "You wanna buy some death sticks?"
-> Obi-Wan Kenobi: "You don't want to sell me death sticks."
-> Elan Sel'Sabagno: "Uh, I don't wanna sell you death sticks."  		
-> Obi-Wan Kenobi: "You want to go home and rethink your life."
-> Elan Sel'Sabagno: "I wanna go home and rethink my life."
+> Elan Sel'Sabagno: "You wanna buy some death sticks?"  
+> Obi-Wan Kenobi: "You don't want to sell me death sticks."  
+> Elan Sel'Sabagno: "Uh, I don't wanna sell you death sticks."  
+> Obi-Wan Kenobi: "You want to go home and rethink your life."  
+> Elan Sel'Sabagno: "I wanna go home and rethink my life."  
 
-Elan Sel'Sabagno: "You wanna buy some deep dish pizza?" 
-Obi-Wan Kenobi: "You don't want to sell me deep dish pizza." 
-Elan Sel'Sabagno: "Uh, I don't wanna sell you deep dish pizza." 
-Obi-Wan Kenobi: "You want to go home and cook NY style pizza." 
-Elan Sel'Sabagno: "I wanna go home and cook NY style pizza."
+Elan Sel'Sabagno: "You wanna buy some deep dish pizza?"  
+Obi-Wan Kenobi: "You don't want to sell me deep dish pizza."  
+Elan Sel'Sabagno: "Uh, I don't wanna sell you deep dish pizza."  
+Obi-Wan Kenobi: "You want to go home and cook NY style pizza."  
+Elan Sel'Sabagno: "I wanna go home and cook NY style pizza."  
 
 > Mos Eisley Spaceport. You will never find a more wretched
 > hive of scum and villainy. We must be cautious.
