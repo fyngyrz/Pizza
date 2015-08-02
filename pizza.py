@@ -9,6 +9,9 @@ pizza = ['Pizza is what gives a programmer his power. It\'s an energy source cre
 "I wanna go home and cook NY style pizza."),
 "Metro Chicago. You will never find a more wretched hive of deep dish pizza. We must order spaghetti.",
 "If this is a pizza shop, where is the NY style pizza? Programmers, tear this shop apart until you've found the recipes. And bring me the pizza chefs, I want them alive!",
-"That's no pizza, it's a deep-dish cassarole!"]
+"That's no pizza!",
+"Awww! But I was going into Tosche Station to pick up some pizza!!!",
+"Only a master of deep-dish pizza, Darth.",
+"I find your lack of NY pizza disturbing.",]
 
 print pizza[int(random.random() * len(pizza))]
