@@ -12,6 +12,7 @@ pizza = ['Pizza is what gives a programmer his power. It\'s an energy source cre
 "That's no pizza!",
 "Awww! But I was going into Tosche Station to pick up some pizza!!!",
 "Only a master of deep-dish pizza, Darth.",
-"I find your lack of NY pizza disturbing.",]
+"I find your lack of NY pizza disturbing.",
+"We have Chicago Pizza in sector 7! -- IT'S A TRAP!",]
 
 print pizza[int(random.random() * len(pizza))]
