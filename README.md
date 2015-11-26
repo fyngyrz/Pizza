@@ -1,11 +1,11 @@
 # Pizza
 
-1. Find a Star Wars quote not currently in the project (see source)
+1. Find a well known quote not currently in the project (see source)
 
-2. Change it to have something to do with  
-   a: Pizza (10 points \*)  
-   b: Programming (10 points)  
-   c: Both (25 points \*)  
+2. Change it to have something to do with pizza \(\*\) and:  
+   a: Programming \(10 points\)  
+   b: Star Wars \(50 points\)
+   c: Some other well-quoted cultural touchstone  
 
 3. Submit a pull request incorporating same as a new tuple
 
