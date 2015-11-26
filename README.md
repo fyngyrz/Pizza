@@ -4,7 +4,7 @@
 
 2. Change it to have something to do with pizza\* and:  
    a: Programming \(10 points\)  
-   b: Star Wars \(50 points\)  
+   b: Star Wars \(50 points\) or...  
    c: Some other well-quoted cultural touchstone  
 
 3. Submit a pull request incorporating same as a new tuple
